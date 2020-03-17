@@ -1,0 +1,8 @@
+{
+  "name": "user-driven-react-unit-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:frontendClass/user-driven-react-unit-testing.git",
+  "author": "khw1031 <khw1031@gmail.com>",
+  "license": "MIT"
+}
